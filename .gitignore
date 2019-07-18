@@ -1,0 +1,12 @@
+.idea/
+.idea_modules/
+out/
+target/
+
+*.log
+*.ear
+*.tar.gz
+*.rar
+src/main/resources/database.properties
+*.iws
+*.iml
